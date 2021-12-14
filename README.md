@@ -1,3 +1,4 @@
+# Python Web Scraper using Selenium
 <h3>GPU Availability Scanner</h3>
 This is a very simple GPU Availabilty Scanner for NewEgg.ca & automated script using Selenium to check stock availability or automaticly purchase when available. It uses personal account information which is stored using Keyring. This script was originally made following a tutorial which I have refactored and enhanced for my own testing.
 
